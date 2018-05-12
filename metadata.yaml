@@ -1,0 +1,43 @@
+_repo: Asa-Holmesor-At-the-Cross-Roads_39598
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fosbery, E.
+    alias: Fosbery, Ernest George
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '40101'
+    url: http://www.gutenberg.org/2009/agents/40101
+covers:
+- cover_type: archival
+  image_path: 39598-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Fellows, Annie
+    - Johnston, Annie Fellows
+    birthdate: 1863
+    deathdate: 1931
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: ''
+gutenberg_issued: '2012-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Older men -- Fiction'
+- !lcsh 'Villages -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Conversation -- Fiction'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'General stores -- Fiction'
+title: Asa Holmes; or, At the Cross-Roads
+url: http://www.gutenberg.org/ebooks/39598
